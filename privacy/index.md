@@ -69,6 +69,8 @@ Any information that is collected is subject to the Policy in effect at the time
 
 ### Contact Us
 
-If you have any questions about this Policy, you can [contact us](JFF3.0@outlook.com)
+If you have any questions about this Policy, you can contact us: JFF3.0@outlook.com
 All personal data is handled under the terms and conditions of FontsX privacy policy. More details can be found here:
-Privacy Policy: 
+
+Privacy Policy: https://fontsx.github.io/privacy
+Terms of Use: https://fontsx.github.io/terms
