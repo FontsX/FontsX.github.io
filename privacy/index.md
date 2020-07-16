@@ -75,4 +75,3 @@ All personal data is handled under the terms and conditions of FontsX privacy po
 
 Privacy Policy: [https://fontsx.github.io/privacy](https://fontsx.github.io/privacy)
 
-Terms of Use: [https://fontsx.github.io/terms](https://fontsx.github.io/terms)
