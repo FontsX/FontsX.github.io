@@ -73,4 +73,5 @@ If you have any questions about this Policy, you can contact us: JFF3.0@outlook.
 All personal data is handled under the terms and conditions of FontsX privacy policy. More details can be found here:
 
 Privacy Policy: https://fontsx.github.io/privacy
+
 Terms of Use: https://fontsx.github.io/terms
