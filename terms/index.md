@@ -70,8 +70,8 @@ It's an auto-renewing subscription:
 
 All personal data is handled under the terms and conditions of FontsX privacy policy. More details can be found here:
 
-Privacy Policy: https://FontsX.github.io/privacy
+Privacy Policy: [https://FontsX.github.io/privacy](https://FontsX.github.io/privacy)
 
-Terms of Use: https://FontsX.github.io/terms
+Terms of Use: [https://FontsX.github.io/terms](https://FontsX.github.io/terms)
 
-Note: If you have any questions, please feel free to contact us: caoyang2743@gmail.com
+Note: If you have any questions, please feel free to contact us: [caoyang2743@gmail.com](caoyang2743@gmail.com)
