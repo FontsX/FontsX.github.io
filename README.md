@@ -1,1 +1,1 @@
-# FontsX Privacy Policy
+# FontsX.github.io
