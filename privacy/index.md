@@ -69,9 +69,10 @@ Any information that is collected is subject to the Policy in effect at the time
 
 ### Contact Us
 
-If you have any questions about this Policy, you can contact us: caoyang2743@gmail.com
+If you have any questions about this Policy, you can contact us: [caoyang2743@gmail.com](caoyang2743@gmail.com)
+
 All personal data is handled under the terms and conditions of FontsX privacy policy. More details can be found here:
 
-Privacy Policy: https://fontsx.github.io/privacy
+Privacy Policy: [https://fontsx.github.io/privacy](https://fontsx.github.io/privacy)
 
-Terms of Use: https://fontsx.github.io/terms
+Terms of Use: [https://fontsx.github.io/terms](https://fontsx.github.io/terms)
