@@ -54,19 +54,19 @@ Generally, from time to time, FontsX may offer additional products and services 
 
 Upgrade to FontsX Premium for more awesome features:
 
-- \* All Special FontsX & Symbols
-- \* All Cute Facemojis
-- \* All Emoji Art Templates
-- \* All Inspirational Quotes
+- All Special FontsX & Symbols
+- All Cute Facemojis
+- All Emoji Art Templates
+- All Inspirational Quotes
 
 It's an auto-renewing subscription:
 
-- \* Your trial period will begin when you confirm your payment. Your trial period lasts 3 days. No money will be charged or held in your iTunes account before the end of your trial period. After the trial period, monthly subscription will start for $???.
-- \* Payment will be charged to your iTunes Account at confirmation of purchase.
-- \* Your subscription automatically renews unless auto-renewal is turned off at least 24-hours before the end of the current period.
-- \* Your iTunes account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
-- \* You can manage your subscriptions and turn off auto-renewal by going to your Account Settings in the iTunes store after purchase.
-- \* Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription to that publication, where applicable.
+- Your trial period will begin when you confirm your payment. Your trial period lasts 3 days. No money will be charged or held in your iTunes account before the end of your trial period. After the trial period, monthly subscription will start for $???.
+- Payment will be charged to your iTunes Account at confirmation of purchase.
+- Your subscription automatically renews unless auto-renewal is turned off at least 24-hours before the end of the current period.
+- Your iTunes account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+- You can manage your subscriptions and turn off auto-renewal by going to your Account Settings in the iTunes store after purchase.
+- Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription to that publication, where applicable.
 
 All personal data is handled under the terms and conditions of FontsX privacy policy. More details can be found here:
 
